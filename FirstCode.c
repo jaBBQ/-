@@ -4,5 +4,6 @@
 int main()
 {
 	print("111")
+	print("222")
 	return 0;
 }
