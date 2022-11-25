@@ -20,3 +20,13 @@
 1|spider|100|20
 2|ironman|200|30
 
+(```)
+	fun()
+	{
+		print("Hello world")
+		return 0;
+	}
+
+(```)
+
+[哔哩哔哩](https://www.bilibili.com/ "点击跳转")简称哔站
